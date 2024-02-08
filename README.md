@@ -27,4 +27,3 @@ View the Walkthrough at https://youtu.be/m4swLTwe8Xk or the repo at https://gith
 ## Author
 Wesley N
 https://github.com/wrn007
-Feel free to contribute to this project by submitting pull requests or reporting issues.
